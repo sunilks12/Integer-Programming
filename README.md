@@ -1,4 +1,6 @@
 # Integer-Programming
 
-WIP
-Posted here once it is completed
+WIP.
+
+
+Projects will be posted here once it is completed
